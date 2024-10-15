@@ -11,7 +11,7 @@ exploration of sector-specific investment trends and macroeconomic factors drivi
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Key Factors](#Key Factors)
+- [Key Factors](#key-factors)
 - [Technologies Used](#technologies-used)
 - [Outcome](#Outcome)
 
